@@ -1,0 +1,62 @@
+T4	Verb_pattern 328 340	of inproving
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\EShatova\Shatova_32_2.ann
+T1	Verb_pattern 132 136	will
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\EShatova\Shatova_41_1.ann
+T1	Verb_pattern 656 663	changed
+C:/Users/Regina5/Desktop/kur_t/OV_2_year\essays_fr\WB1_Leshchenko.ann
+T7	Verb_pattern 577 589	is dependant
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\EShatova\Shatova_40_2.ann
+T14	Verb_pattern 768 843	the biggest amount of people accounted for the youngest or next young group
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\ADegtyar\Degtyar_15_1.ann
+T2	Verb_pattern 314 318	used
+C:/Users/Regina5/Desktop/kur_t/OV_2_year\essays_fr\Leshchenko_unit3_WB.ann
+T5	Verb_pattern 708 710	to
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\Arsentyev\DArsentyev_23_2.ann
+T9	Verb_pattern 640 650	increasing
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\EShatova\Shatova_38_1.ann
+T3	Verb_pattern 1580 1586	making
+C:/Users/Regina5/Desktop/kur_t/OV_2_year\essays_fr\Evdaeva_WB3.ann
+T5	Verb_pattern 176 195	the increase of the
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\KKolosova\KKolosova_3_2.ann
+T8	Verb_pattern 357 367	increasing
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\EShatova\Shatova_41_2.ann
+T18	Verb_pattern 832 837	is no
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\EShatova\Shatova_41_2.ann
+T2	Verb_pattern 869 875	living
+C:/Users/Regina5/Desktop/kur_t/OV_2_year\essays_fr\Evdaeva_WB1.ann
+T2	Verb_pattern 897 904	working
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\EShatova\Shatova_54_2.ann
+T6	Verb_pattern 485 497	paying guest
+C:/Users/Regina5/Desktop/kur_t/OV_2_year\essays_fr\StepanovaAlyona_WB1.ann
+T1	Verb_pattern 271 275	will
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\EShatova\Shatova_60_2.ann
+T7	Verb_pattern 620 624	make
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\EShatova\Shatova_42_2.ann
+T4	Verb_pattern 161 168	related
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\Arsentyev\DArsentyev_25_1.ann
+T13	Verb_pattern 406 434	plaing in the computer games
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\Evdaeva\ZEvdaeva_9_2.ann
+T17	Verb_pattern 933 956	do you learn your child
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\ADegtyar\Degtyar_18_2.ann
+T20	Verb_pattern 1087 1096	taught to
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\ADegtyar\Degtyar_14_2.ann
+T9	Verb_pattern 352 356	they
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\Evdaeva\ZEvdaeva_30_2.ann
+T31	Verb_pattern 885 889	work
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\Stepanova\AStepanova_42_2.ann
+T7	Verb_pattern 428 431	not
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\Yakusheva\TYakusheva_29_2.ann
+T9	Verb_pattern 532 534	be
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\Yakusheva\TYakusheva_29_2.ann
+T12	Verb_pattern 727 735	grown up
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\Yakusheva\TYakusheva_29_2.ann
+T1	Verb_pattern 170 176	assume
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\Arsentyev\DArsentyev_27_2.ann
+T10	Verb_pattern 1272 1279	talking
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\Evdaeva\ZEvdaeva_4_2.ann
+T4	Verb_pattern 244 248	have
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\EShatova\Shatova_37_1.ann
+T1	Verb_pattern 1414 1421	suggest
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\Arsentyev\DArsentyev_14_2.ann
+T13	Verb_pattern 1080 1090	start hate
+C:/Users/Regina5/Desktop/kur_t/data_4_staff\IELTS\Evdaeva\ZEvdaeva_7_2.ann
